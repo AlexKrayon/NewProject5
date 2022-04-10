@@ -5,6 +5,16 @@ public class TimeMachine {
             job="Teacher";
     int age= 27;
 
+    // point one
+
+    // point one
+
+    // point three
+
+    // point four
+
+    // point six
+
 
 
 
